@@ -1,0 +1,98 @@
+/* Reset styles */
+body, table, td, a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Define inline styles for email elements */
+.logo1-1-icon {
+  display: block;
+  margin: 36px 0 0 12px;
+  width: 117px;
+  height: 102px;
+}
+
+.linux-club {
+  color: #4c0fa7;
+  font-size: 32px;
+  margin: 16px 0;
+  text-align: center;
+}
+
+.its-time-for, .something-new {
+  background: #4c0fa7;
+  color: #fff;
+  text-align: center;
+}
+
+.its-time-for {
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+.something-new {
+  font-size: 28px;
+  padding: 10px 0;
+}
+
+.join-now {
+  background-color: #4c0fa7;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.the-vit-bhopal {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.why-linux-club {
+  color: #4c0fa7;
+  font-size: 28px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.networking, .contribute-to-open, .leadership-opportunity, .skills-development {
+  background: #4c0fa7;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+.embrace-the-chance, .forge-your-skills-container, .connect-with-kindred-container, .be-an-integral-container {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.follow-us-for {
+  color: #4c0fa7;
+  font-size: 28px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.instagram-1, .linkedin-1-icon, .logo1-2-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px;
+  width: 34px;
+  height: 34px;
+}
+
+.linux-club2 {
+  color: #4c0fa7;
+  font-size: 32px;
+  margin: 20px 0;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+  width: 600px;
+  padding: 100px;
+  border-color: black;
+}
+
+:root {
+  /* fonts */
+  --font-klee-one: "Klee One";
+  --font-quicksand: Quicksand;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+  --font-size-4xl: 23px;
+  --font-size-21xl: 40px;
+  --font-size-36xl: 55px;
+  --font-size-56xl: 75px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkblue: #4c0fa7;
+  --color-darkviolet: #cd40fb;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+}
